@@ -1,0 +1,13 @@
+/* Write your code here. */
+.League {
+  font-family: roboto;
+  color: #f8fafc;
+  text-align: center;
+}
+.logo_image {
+  width: 100vw;
+  height: 100vh;
+}
+.background {
+  background-color: #0f172a;
+}
